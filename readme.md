@@ -2,7 +2,7 @@
 
 # CHANTER
 
-a python speech synthesizer channeling the spirit of IRCAM's CHANT system—FOF (fonction d'onde formantique) grains shaped by coarticulation, phrase dynamics, and the ancient architecture of sung speech.
+a python speech synthesizer inspired by IRCAM's CHANT system—FOF (fonction d'onde formantique) grains shaped by coarticulation and phrase dynamics.
 
 ## what it does
 
@@ -83,7 +83,6 @@ each formant tuple: `[center_freq_hz, bandwidth_hz, amplitude_db]`
 3. **CoarticulationEngine** blends formant targets across phoneme boundaries  
 4. **RegisterModel** shifts formants based on f0 and voice type
 5. **CHANTEngine** renders: for each glottal period, spawns FOF grains per formant, applies antiformants, mixes noise for fricatives/plosives
-6. overlap-add with jitter/vibrato modulation
 
 ## lineage
 
@@ -92,6 +91,13 @@ inspired by xavier rodet's CHANT (1984) and the FORMES composition environment�
 [What is Chant?](https://ccrma.stanford.edu/~marek/chant_1.html)
 
 [The CHANT Project: From the Synthesis of the Singing Voice to Synthesis in General](https://www.ee.columbia.edu/~dpwe/papers/RodetPB84-CHANT.pdf)
+
+## to do
+
+1. add streaming
+2. reduce compute costs
+3. some of the frequency sweeps could be manually tightened up
+4. midi?
 
 ## license
 
