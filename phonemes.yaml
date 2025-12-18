@@ -1,0 +1,503 @@
+AA:
+  phoneme_type: vowel
+  formants:
+    - [700, 130, 0]
+    - [1220, 70, -6]
+    - [2600, 160, -24]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+AE:
+  phoneme_type: vowel
+  formants:
+    - [660, 120, 0]
+    - [1720, 90, -4]
+    - [2410, 150, -20]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+AH:
+  phoneme_type: vowel
+  formants:
+    - [640, 120, 0]
+    - [1190, 80, -5]
+    - [2390, 140, -22]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+AO:
+  phoneme_type: vowel
+  formants:
+    - [570, 100, 0]
+    - [840, 80, -5]
+    - [2410, 130, -26]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+EH:
+  phoneme_type: vowel
+  formants:
+    - [530, 100, 0]
+    - [1840, 90, -5]
+    - [2480, 140, -18]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+IH:
+  phoneme_type: vowel
+  formants:
+    - [390, 80, 0]
+    - [1990, 90, -10]
+    - [2550, 140, -20]
+    - [3300, 250, -28]
+    - [4500, 300, -35]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+IY:
+  phoneme_type: vowel
+  formants:
+    - [270, 60, 0]
+    - [2290, 90, -16]
+    - [3010, 150, -22]
+    - [3500, 200, -30]
+    - [4500, 300, -40]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+UW:
+  phoneme_type: vowel
+  formants:
+    - [300, 80, 0]
+    - [870, 80, -10]
+    - [2240, 120, -26]
+    - [3300, 250, -30]
+    - [4500, 300, -40]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+M:
+  phoneme_type: nasal
+  formants:
+    - [250, 60, -3]
+    - [1000, 100, -20]
+    - [2000, 150, -35]
+    - [3000, 200, -45]
+    - [4000, 250, -55]
+  antiformants:
+    - [750, 80]
+    - [1400, 100]
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.9
+  skirt_width: 1.0
+  glottal_tension: 0.5
+N:
+  phoneme_type: nasal
+  formants:
+    - [250, 60, -3]
+    - [1200, 100, -20]
+    - [2200, 150, -35]
+    - [3000, 200, -45]
+    - [4000, 250, -55]
+  antiformants:
+    - [1000, 90]
+    - [1800, 100]
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.9
+  skirt_width: 1.0
+  glottal_tension: 0.5
+NG:
+  phoneme_type: nasal
+  formants:
+    - [250, 60, -3]
+    - [1100, 100, -22]
+    - [2100, 150, -38]
+    - [3000, 200, -45]
+    - [4000, 250, -55]
+  antiformants:
+    - [800, 85]
+    - [1600, 100]
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.9
+  skirt_width: 1.0
+  glottal_tension: 0.5
+L:
+  phoneme_type: nasal
+  formants:
+    - [350, 70, -3]
+    - [1100, 90, -18]
+    - [2400, 130, -30]
+    - [3200, 180, -40]
+    - [4000, 220, -50]
+  antiformants:
+    - [900, 70]
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.95
+  skirt_width: 1.0
+  glottal_tension: 0.5
+R:
+  phoneme_type: nasal
+  formants:
+    - [420, 80, -4]
+    - [1300, 100, -16]
+    - [1600, 120, -22]
+    - [3200, 180, -38]
+    - [4000, 220, -48]
+  antiformants:
+    - [1100, 80]
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.92
+  skirt_width: 1.0
+  glottal_tension: 0.5
+W:
+  phoneme_type: nasal
+  formants:
+    - [300, 70, -3]
+    - [800, 80, -12]
+    - [2300, 130, -28]
+    - [3300, 200, -38]
+    - [4200, 250, -48]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.95
+  skirt_width: 1.0
+  glottal_tension: 0.5
+Y:
+  phoneme_type: nasal
+  formants:
+    - [280, 60, -3]
+    - [2200, 90, -14]
+    - [2900, 120, -22]
+    - [3500, 180, -32]
+    - [4500, 230, -42]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 0.95
+  skirt_width: 1.0
+  glottal_tension: 0.5
+P:
+  phoneme_type: plosive
+  formants:
+    - [200, 400, -20]
+    - [800, 300, -25]
+    - [1800, 400, -30]
+    - [3000, 500, -40]
+    - [4500, 600, -50]
+  antiformants: []
+  burst_freq: 400
+  burst_bw: 600
+  aspiration: 0.12
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+B:
+  phoneme_type: plosive
+  formants:
+    - [200, 300, -15]
+    - [800, 250, -22]
+    - [1800, 350, -28]
+    - [3000, 450, -38]
+    - [4500, 550, -48]
+  antiformants: []
+  burst_freq: 350
+  burst_bw: 500
+  aspiration: 0.05
+  voicing: 0.3
+  skirt_width: 1.0
+  glottal_tension: 0.5
+T:
+  phoneme_type: plosive
+  formants:
+    - [200, 400, -20]
+    - [1200, 300, -22]
+    - [2500, 400, -28]
+    - [3500, 500, -38]
+    - [5000, 600, -48]
+  antiformants: []
+  burst_freq: 3000
+  burst_bw: 1500
+  aspiration: 0.18
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+D:
+  phoneme_type: plosive
+  formants:
+    - [200, 350, -15]
+    - [1200, 280, -20]
+    - [2500, 380, -26]
+    - [3500, 480, -36]
+    - [5000, 580, -46]
+  antiformants: []
+  burst_freq: 2800
+  burst_bw: 1200
+  aspiration: 0.08
+  voicing: 0.35
+  skirt_width: 1.0
+  glottal_tension: 0.5
+K:
+  phoneme_type: plosive
+  formants:
+    - [200, 400, -20]
+    - [1000, 300, -20]
+    - [2200, 400, -25]
+    - [3200, 500, -35]
+    - [4500, 600, -45]
+  antiformants: []
+  burst_freq: 1500
+  burst_bw: 1000
+  aspiration: 0.14
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+G:
+  phoneme_type: plosive
+  formants:
+    - [200, 350, -15]
+    - [1000, 280, -18]
+    - [2200, 380, -23]
+    - [3200, 480, -33]
+    - [4500, 580, -43]
+  antiformants: []
+  burst_freq: 1400
+  burst_bw: 800
+  aspiration: 0.06
+  voicing: 0.32
+  skirt_width: 1.0
+  glottal_tension: 0.5
+S:
+  phoneme_type: fricative
+  formants:
+    - [4000, 800, -18]
+    - [5500, 900, -20]
+    - [7000, 1000, -25]
+    - [8500, 1100, -32]
+    - [10000, 1200, -40]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.92
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+Z:
+  phoneme_type: fricative
+  formants:
+    - [4000, 700, -20]
+    - [5500, 800, -22]
+    - [7000, 900, -27]
+    - [8500, 1000, -35]
+    - [10000, 1100, -42]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.7
+  voicing: 0.4
+  skirt_width: 1.0
+  glottal_tension: 0.5
+F:
+  phoneme_type: fricative
+  formants:
+    - [3000, 1200, -22]
+    - [5000, 1500, -25]
+    - [7000, 1500, -30]
+    - [9000, 1500, -38]
+    - [11000, 1500, -45]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.88
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+V:
+  phoneme_type: fricative
+  formants:
+    - [3000, 1100, -24]
+    - [5000, 1400, -27]
+    - [7000, 1400, -32]
+    - [9000, 1400, -40]
+    - [11000, 1400, -47]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.6
+  voicing: 0.45
+  skirt_width: 1.0
+  glottal_tension: 0.5
+TH:
+  phoneme_type: fricative
+  formants:
+    - [4500, 1500, -25]
+    - [6000, 1500, -28]
+    - [7500, 1500, -33]
+    - [9000, 1500, -40]
+    - [10500, 1500, -48]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.82
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+DH:
+  phoneme_type: fricative
+  formants:
+    - [4500, 1400, -27]
+    - [6000, 1400, -30]
+    - [7500, 1400, -35]
+    - [9000, 1400, -42]
+    - [10500, 1400, -50]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.55
+  voicing: 0.5
+  skirt_width: 1.0
+  glottal_tension: 0.5
+SH:
+  phoneme_type: fricative
+  formants:
+    - [2500, 600, -15]
+    - [4000, 800, -18]
+    - [6000, 1000, -25]
+    - [8000, 1200, -35]
+    - [10000, 1400, -45]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.9
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+ZH:
+  phoneme_type: fricative
+  formants:
+    - [2500, 550, -18]
+    - [4000, 750, -21]
+    - [6000, 950, -28]
+    - [8000, 1150, -38]
+    - [10000, 1350, -48]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.65
+  voicing: 0.42
+  skirt_width: 1.0
+  glottal_tension: 0.5
+H:
+  phoneme_type: fricative
+  formants:
+    - [500, 400, -10]
+    - [1500, 500, -15]
+    - [2500, 600, -22]
+    - [3500, 700, -32]
+    - [4500, 800, -42]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.75
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+CH:
+  phoneme_type: plosive
+  formants:
+    - [2500, 600, -18]
+    - [4000, 800, -22]
+    - [6000, 1000, -28]
+    - [8000, 1200, -38]
+    - [10000, 1400, -48]
+  antiformants: []
+  burst_freq: 4000
+  burst_bw: 2000
+  aspiration: 0.25
+  voicing: 0.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
+JH:
+  phoneme_type: plosive
+  formants:
+    - [2500, 550, -20]
+    - [4000, 750, -24]
+    - [6000, 950, -30]
+    - [8000, 1150, -40]
+    - [10000, 1350, -50]
+  antiformants: []
+  burst_freq: 3500
+  burst_bw: 1800
+  aspiration: 0.18
+  voicing: 0.38
+  skirt_width: 1.0
+  glottal_tension: 0.5
+SIL:
+  phoneme_type: silence
+  formants:
+    - [0, 100, -100]
+    - [0, 100, -100]
+    - [0, 100, -100]
+    - [0, 100, -100]
+    - [0, 100, -100]
+  antiformants: []
+  burst_freq: 0.0
+  burst_bw: 0.0
+  aspiration: 0.0
+  voicing: 1.0
+  skirt_width: 1.0
+  glottal_tension: 0.5
